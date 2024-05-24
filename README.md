@@ -1,5 +1,7 @@
 # Minimal Reproducible Example
 
+See: https://github.com/nuxt-modules/i18n/issues/2944
+
 Implementation:
 1. use `prefix_except_default` or `prefix_and_default`
 2. add locale switcher outside of `<NuxtPage>`
